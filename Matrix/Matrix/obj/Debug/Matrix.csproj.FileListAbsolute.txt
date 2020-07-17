@@ -1,0 +1,10 @@
+C:\Users\Константин\source\repos\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Константин\source\repos\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Константин\source\repos\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Константин\source\repos\Matrix\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\Константин\source\repos\Matrix\Matrix\obj\Debug\Matrix.Form1.resources
+C:\Users\Константин\source\repos\Matrix\Matrix\obj\Debug\Matrix.Properties.Resources.resources
+C:\Users\Константин\source\repos\Matrix\Matrix\obj\Debug\Matrix.csproj.GenerateResource.cache
+C:\Users\Константин\source\repos\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Константин\source\repos\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\Константин\source\repos\Matrix\Matrix\obj\Debug\Matrix.pdb
